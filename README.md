@@ -1,1 +1,1 @@
-# Coin-Gecko-Scrap-Analysis
+# Coin Gecko Scrap Analysis
