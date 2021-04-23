@@ -1,6 +1,6 @@
 # Coin Gecko Scrape
 ## Overview 
-A scripts that web scrapes coingecko.com. It takes raw textual data, and transforms it into a dataframe that contains 3 months historical data of the top 1000 coins in the site (by marketcap).
+A script that web scrapes coingecko.com. It takes raw textual data, and transforms it into a dataframe that contains 3 months historical data of the top 1000 coins in the site (by marketcap).
 
 
 ![Imgur](https://i.imgur.com/CozCdI4.png)
